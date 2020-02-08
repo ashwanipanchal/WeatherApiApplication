@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+#form{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+body{
+  background-image: url("https://images.pexels.com/photos/327308/pexels-photo-327308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
+#main-div{
+  color: #fff;
+  font-family: 'Oleo Script', cursive;
+}
